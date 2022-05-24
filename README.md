@@ -1,5 +1,4 @@
 <h1 align="center">Francisco Encina</h1>
-<hr/>
 <h2 align="center">FullStack Developer</h2>
 
 <!--
