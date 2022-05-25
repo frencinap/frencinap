@@ -1,5 +1,8 @@
 <h1 align="center">Francisco Encina</h1>
 <h2 align="center">FullStack Developer</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **frencinap/frencinap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
