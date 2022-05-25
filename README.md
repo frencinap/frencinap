@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p>
+<p align="center">
   Desarrollador Fullstack actualmente trabajando para MercadoLibre.cl en el área Frontend. Originalmente <br/>
   Ingeniero en Construccón reconvertido en porgramador. Algunas de mis habiliades son:
 </p>
