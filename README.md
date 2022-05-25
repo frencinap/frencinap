@@ -16,6 +16,8 @@
   <li>Vue</li>
   <li>React</li>
 </ul>
+<hr/>
+<p align="center">Contáctame en <a href="https://www.linkedin.com/in/frencinap/">LinkedIn</a>🎯</p>
 
 <!--
 **frencinap/frencinap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
