@@ -4,7 +4,8 @@
 </div>
 <p align="center">
   Desarrollador Fullstack actualmente trabajando para MercadoLibre.cl en el área Frontend. Originalmente <br/>
-  Ingeniero en Construcción reconvertido en Software Developer. Algunas de mis habiliades son:
+  Ingeniero en Construcción reconvertido en Software Developer gracias al programa Talento Digital para Chile. <br/>
+  Algunas de mis habiliades son:
 </p>
 <ul>
   <li>HTML5</li>
@@ -18,6 +19,10 @@
 </ul>
 <hr/>
 <p align="center">Contáctame en <a href="https://www.linkedin.com/in/frencinap/">LinkedIn</a>🎯</p>
+<div align="center">
+  <img src="https://66.media.tumblr.com/tumblr_lzm11sChEe1rn95k2o1_500.gif" width="200"/>
+</div>
+
 
 <!--
 **frencinap/frencinap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
